@@ -1,0 +1,3 @@
+# This file intentionally left minimal
+# The app works via: http://localhost/hrms/index.php?url=dashboard/index
+# No mod_rewrite required
